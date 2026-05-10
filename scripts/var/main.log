@@ -1,0 +1,8 @@
+2026-05-10 14:00:01 INFO  System started successfully
+2026-05-10 14:05:12 WARN  Low memory detected
+2026-05-10 14:10:45 ERROR Failed to connect to database
+2026-05-10 14:15:30 INFO  User 'abhi' logged in
+2026-05-10 14:20:55 INFO  Backup completed
+2026-05-10 14:25:07 ERROR Disk space critically low
+2026-05-10 14:30:22 WARN  High CPU usage detected
+2026-05-10 14:35:40 INFO  User 'abhi' logged out
