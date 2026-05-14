@@ -28,3 +28,8 @@ wget http://www.example.com
 telnet google.com 80
 dig google.com
 nslookup google.com
+
+
+# other 
+nmap localhost
+sudo tcpdump -i eth0
